@@ -9,5 +9,5 @@ I really enjoy developing full-stack web apps that make a difference in the worl
 - But for things more relevant to coding, check out my repos or the links below.
 
 ## Get in Touch! 🎉
-- <a href="http://masonlancaster.com/">Portfolio</a>
+- <a href="http://masonlancaster.com/">masonlancaster.com</a>
 - <a href="https://www.linkedin.com/in/masonlancaster/">LinkedIn</a>
