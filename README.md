@@ -2,7 +2,7 @@
 
 I really enjoy developing full-stack web apps that make a difference in the world. 
 
-## A Little More About Me
+## I'm a Person!
 - I also ~~like~~ **LOVE** coffee ☕️. 
 - Oh, and I'm particularly strange in that I enjoy riding my bike 🚴🏻‍♂️ <a href="https://www.strava.com/activities/6089368002">painfully long distances</a> up <a href="https://www.strava.com/activities/4177904179">painfully long mountains</a> 🏔.
 - I also enjoy researching, publishing, and teaching in the humanities (that *other* world!). 
