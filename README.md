@@ -11,4 +11,4 @@ I really enjoy developing full-stack web apps that make a difference in the worl
 ## Get in Touch! 🎉
 - <a href="http://masonlancaster.com/">masonlancaster.com</a>
 - <a href="https://www.linkedin.com/in/masonlancaster/">LinkedIn</a>
-- <a href="mailto: masonlancaster@protonmail.com">masonlancaster [at] protonmail [dot] come</a>
+- <a href="mailto: masonlancaster@protonmail.com">masonlancaster [at] protonmail [dot] com</a>
