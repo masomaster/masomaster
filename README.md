@@ -1,6 +1,6 @@
 # 👋 &nbsp;Hello World!
 
-I really enjoy developing full-stack web apps that make a difference in the world. 
+As a full stack software engineer, I am an insatiable learner energized by creativity, collaboration, and a good problem to solve. Embracing the process with a growth mindset, I’m passionate about creating software that makes a difference in the world. I specialize in full-stack JavaScript- and Python-based technologies to create end-to-end solutions. With a background in education, tech, and customer service, I have a strong foundation in critical thinking, communication, and collaboration among diverse stakeholders which I leverage to produce optimal results for end users. Through selfless partnership with authenticity and empathy, I am excited to work with a team that delivers software to improve lives.
 
 ## 😂 &nbsp;I'm a Person!
 - I also ~~like~~ **LOVE** coffee ☕️. 
