@@ -29,3 +29,7 @@ As a full stack software engineer, I am an insatiable learner energized by creat
 - <a href="http://masonlancaster.com/">Website</a>
 - <a href="https://www.linkedin.com/in/masonlancaster/">LinkedIn</a>
 - <a href="mailto: masonlancaster@protonmail.com">Email</a>
+
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=masomaster&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=masomaster&langs_count=5&theme=tokyonight)]()
