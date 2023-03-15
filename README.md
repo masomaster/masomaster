@@ -23,8 +23,8 @@ As a full stack software engineer, I am an insatiable learner energized by creat
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> &nbsp;
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" alt="Github" width="50" height="50"/> &nbsp;
 
-
-[![Mason's GitHub stats](https://github-readme-stats.vercel.app/api?username=masomaster)](https://github.com/anuraghazra/github-readme-stats)
+## 📈 &nbsp;My Stats
+[![Mason's GitHub stats](https://github-readme-stats.vercel.app/api?username=masomaster&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🎉 &nbsp;Get in Touch!
