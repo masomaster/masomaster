@@ -3,9 +3,7 @@
 I’m a highly motivated, detail-oriented software engineer who is addicted to learning and delights in collaborating. I love bringing ideas to pixel-perfect full-stack fruition through innovative solutions to challenging issues. I currently work as a software engineer in higher education, developing full stack solutions for a variety of stakeholders with a special focus on Workday, integrations, and custom Java solutions. With a background in education, tech, and customer service, I have a strong foundation in critical thinking, communication, problem-solving, and collaboration which I leverage to deliver excellent software products that enrich lives.
 
 ## 😂 &nbsp;I'm a Person!
-- I also ~~like~~ **LOVE** coffee ☕️. 
-- Oh, and I'm particularly strange in that I enjoy riding my bike 🚴🏻‍♂️ <a href="https://www.strava.com/activities/6089368002">painfully long distances</a> up <a href="https://www.strava.com/activities/4177904179">painfully long mountains</a> 🏔.
-- I also enjoy researching, publishing, and teaching in the humanities (that *other* world!). 
+- I like coffee, riding my bike 🚴🏻‍♂️ <a href="https://www.strava.com/activities/6089368002">painfully long distances</a>, and researching, publishing, and teaching in the humanities (that *other* world!). 
 - But for things more relevant to coding, check out my repos or the links below.
 
 ## 🧰 &nbsp;My toolbox <!-- Credit to Cyris (https://github.com/CyrisXD) for this feature -->
