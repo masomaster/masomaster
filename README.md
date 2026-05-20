@@ -1,8 +1,7 @@
 # 👋 &nbsp;Hello World!
 
-I’m a highly motivated, detail-oriented software engineer who is addicted to learning and delights in collaborating. I love bringing ideas to pixel-perfect full-stack fruition through innovative solutions to challenging issues. I currently work as a software engineer in higher education, developing back-end solutions for a variety of stakeholders with a special focus on AWS services, Python, and Workday integrations.
+Detail-oriented software engineer who thrives on learning and collaboration, with 3+ years building cloud-native, AI-driven solutions for a private university serving 3,500+ students and ~1,500 employees. Owns projects end-to-end—architecture through deployment—across a lean 5-person team supporting Workday, TeamDynamix, Canvas, Salesforce/RetentionX, and custom internal systems. Core stack: Python, Java, JavaScript/TypeScript, React, and AWS. AWS Certified Developer – Associate.
 
 ## 🎉 &nbsp;Get in Touch!
 - <a href="http://masonlancaster.com/">Website</a>
 - <a href="https://www.linkedin.com/in/masonlancaster/">LinkedIn</a>
-- <a href="mailto: masonlancaster@protonmail.com">Email</a>
